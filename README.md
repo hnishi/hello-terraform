@@ -5,7 +5,7 @@
 ## Usage
 
 ```shell
-source set_env.bash  # 環境変数の設定
+source set_env.bash  # set bash environment variables
 ```
 
 ## Requirements
